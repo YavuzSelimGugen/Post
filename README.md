@@ -16,3 +16,4 @@ npm run serve
 ```
 
 Frontend side is not completed therefore it wouldn't work for now.
+And also don't forget install node modules by your own. 
